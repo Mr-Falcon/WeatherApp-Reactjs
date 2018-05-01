@@ -1,4 +1,10 @@
 {
-    "editor.fontSize": 18,
-    "editor.lineHeight": 30
+    "editor.fontSize": 19,
+    "editor.lineHeight": 34,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "vscode_custom_css.imports": [
+        "file:///Users/zamamoha/Desktop/styles.css"
+    ]
+
 }
